@@ -15,3 +15,5 @@ Then type  ``` pip install -r requirements.txt ``` in your terminal.
 After that type ``` python manage.py migrate ```.
 
 And finally ``` python manage.py runserver  ```
+
+Then go to http://localhost:8000/ or http://127.0.0.1:8000/ and you will see a basic "Hello World" app.
